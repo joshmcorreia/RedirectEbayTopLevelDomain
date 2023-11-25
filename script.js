@@ -5,6 +5,9 @@
 // @match        *://www.ebay.*/*
 // @run-at       document-start
 // @grant        none
+// @license      MIT
+// @version      1.0.0
+// @namespace    https://greasyfork.org/users/1220845
 // ==/UserScript==
 
 var desired_top_level_domain = ".com"; // CHANGE ME TO REFLECT YOUR DESIRED DOMAIN
